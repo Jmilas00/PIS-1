@@ -8,6 +8,8 @@ namespace PIS_Milas
         {
             Console.WriteLine("Novo");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Kolega editao!");
+
         }
     }
 }
